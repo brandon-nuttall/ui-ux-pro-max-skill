@@ -154,7 +154,7 @@ v2.0의 핵심 기능은 **디자인 시스템 생성기**입니다. AI 기반 �
 - **색상 팔레트 192개** - 192개 제품 유형과 1:1로 정렬된 산업별 팔레트
 - **글꼴 조합 74개** - Google Fonts 가져오기 코드가 포함된 엄선된 타이포그래피 조합
 - **차트 유형 25개** - 대시보드 및 분석 화면을 위한 권장 사항
-- **기술 스택 22개** - React, Next.js, Astro, Vue, Nuxt.js, Nuxt UI, Svelte, SwiftUI, React Native, Flutter, HTML+Tailwind, shadcn/ui, Jetpack Compose, Angular, Laravel, Three.js, JavaFX, WPF, WinUI 3, UWP, Avalonia, Uno Platform
+- **기술 스택 23개** - React, Next.js, Astro, Vue, Nuxt.js, Nuxt UI, Svelte, SwiftUI, React Native, Flutter, HTML+Tailwind, shadcn/ui, Jetpack Compose, Angular, Laravel, Three.js, JavaFX, WPF, WinUI 3, UWP, Avalonia, Uno Platform, FastHTML
 - **UX 가이드라인 119개** - 모범 사례, 안티패턴, 접근성 규칙, 유연한 텍스트 레이아웃, 간결한 레이블, 취소 가능한 상호작용
 - **추론 규칙 192개** - 산업별 디자인 시스템 생성(v2.0의 새로운 기능)
 
@@ -190,7 +190,7 @@ v2.0의 핵심 기능은 **디자인 시스템 생성기**입니다. AI 기반 �
 * **완전한 오픈 소스:** 개인 개발자, 취미 개발자, 일반 프로젝트에 적합합니다.
 * **핵심 UI/UX 인텔리전스:** 검색 가능한 UI 스타일 79개(활성 50개), 제품 유형 192개, 색상 팔레트, 엄선된 글꼴 조합을 모두 사용할 수 있습니다.
 * **스마트 추천:** 내장 BM25 검색 엔진으로 정확도 높은 디자인 매칭을 제공합니다.
-* **크로스 플랫폼 지원:** 22개 주요 프레임워크(React, Vue, Tailwind, iOS, Android 등)를 위한 스택별 가이드라인을 제공합니다.
+* **크로스 플랫폼 지원:** 23개 주요 프레임워크(React, Vue, Tailwind, iOS, Android 등)를 위한 스택별 가이드라인을 제공합니다.
 * **디자인 시스템 생성:** CLI를 통해 맞춤형 UI 규칙, 패턴, 로직을 즉시 생성합니다.
 
 ### 🟡 프리미엄 버전

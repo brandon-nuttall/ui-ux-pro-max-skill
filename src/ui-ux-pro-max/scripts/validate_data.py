@@ -131,6 +131,13 @@ STACK_OFFICIAL_HOSTS = {
     "javafx": {"openjfx.io", "mkpaz.github.io", "www.w3.org"},
     "threejs": {"threejs.org", "github.com", "www.npmjs.com", "www.w3.org"},
     "laravel": {"laravel.com"},
+    # www.fastht.ml is the host named by the package's Documentation project
+    # URL. htmx 2.0.7 is injected into the default head and its attributes are
+    # part of how a FastHTML view is written, so htmx's own reference is the
+    # authority for attribute semantics; www.w3.org carries web-standard rules
+    # (as in javafx/threejs above) and github.com pins claims to the 0.14.13
+    # source lines the documentation does not cover.
+    "fasthtml": {"www.fastht.ml", "github.com", "v2.htmx.org", "www.w3.org"},
 }
 REQUIRED_UX_GUIDANCE = {
     "Focus Not Obscured (Minimum)": "Web",
