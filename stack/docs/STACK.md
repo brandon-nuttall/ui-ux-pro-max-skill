@@ -13,7 +13,7 @@ AI design fails in three predictable ways. Each layer of this stack fixes one.
 ## 🧠 Knowledge — `ui-ux-pro-max`
 
 A searchable design-intelligence toolkit: **84 UI styles, 192 color palettes, 73 font
-pairings, 99 UX guidelines, 25 chart types, a Core Web Vitals dataset, and 22 tech stacks**,
+pairings, 99 UX guidelines, 25 chart types, a Core Web Vitals dataset, and 23 tech stacks**,
 plus a design-system generator that turns a product brief into concrete tokens. It's the
 answer to "what should this actually look like, and what are the anti-patterns?"
 

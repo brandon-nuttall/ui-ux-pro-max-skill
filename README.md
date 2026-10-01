@@ -192,7 +192,7 @@ Each rule includes:
 - **192 Color Palettes** - Industry-specific palettes aligned 1:1 with the 192 product types
 - **74 Font Pairings** - Curated typography combinations with Google Fonts imports
 - **25 Chart Types** - Recommendations for dashboards and analytics
-- **22 Tech Stacks** - React, Next.js, Astro, Vue, Nuxt.js, Nuxt UI, Svelte, SwiftUI, React Native, Flutter, HTML+Tailwind, shadcn/ui, Jetpack Compose, Angular, Laravel, Three.js, JavaFX, WPF, WinUI 3, UWP, Avalonia, Uno Platform
+- **23 Tech Stacks** - React, Next.js, Astro, Vue, Nuxt.js, Nuxt UI, Svelte, SwiftUI, React Native, Flutter, HTML+Tailwind, shadcn/ui, Jetpack Compose, Angular, Laravel, Three.js, JavaFX, WPF, WinUI 3, UWP, Avalonia, Uno Platform, FastHTML
 - **119 UX Guidelines** - Best practices, anti-patterns, accessibility rules, resilient text layout, compact labels, and cancellable interactions
 - **192 Reasoning Rules** - Industry-specific design system generation (NEW in v2.0)
 
@@ -237,7 +237,7 @@ Many users ask about the differences between the open-source and premium version
 * **Fully Open Source:** Perfect for individual developers, hobbyists, and standard projects.
 * **Core UI/UX Intelligence:** Full access to 79 searchable UI styles (50 active), 192 product types, color palettes, and curated font pairings.
 * **Smart Recommendations:** Built-in BM25 search engine for highly accurate design matching.
-* **Cross-Platform Support:** Stack-specific guidelines supporting 22 major frameworks (React, Vue, Tailwind, iOS, Android, etc.).
+* **Cross-Platform Support:** Stack-specific guidelines supporting 23 major frameworks (React, Vue, Tailwind, iOS, Android, etc.).
 * **Design System Generation:** Instantly generate tailored UI rules, patterns, and logic via CLI.
 
 ### 🟡 Premium Version
